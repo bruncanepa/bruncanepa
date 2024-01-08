@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there I'm Bruno Cánepa 👋
 
-<!--
-**bruncanepa/bruncanepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Now: 
+- 💻 building privacy-focused tools.
+- ✍️ writing about software engineering and beyond.
+- 🛹 surf skating.
+- 🎸 playing guitar.
 
-Here are some ideas to get you started:
+> FAQ: What is a [Now Page](https://nownownow.com/about)?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects:
+- ✍️ [My Blog](https://github.com/bruncanepa/blog): All my blogs in one place.
+- 🔐 [Open E2EE](https://github.com/bruncanepa/open-e2ee/): Open-source tools to simplify E2EE on the Web.
+- 📬 [Privacy Peer](https://github.com/bruncanepa/privacy-peer): A file transfer platform with E2EE over P2P.
+- 🧠 [My Second Brain](https://github.com/bruncanepa/second-brain): A little preview of my Second Brain.
