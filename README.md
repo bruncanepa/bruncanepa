@@ -10,6 +10,6 @@
 
 ### Projects:
 - ✍️ [My Blog](https://github.com/bruncanepa/blog): All my blogs in one place.
-- 🔐 [Open E2EE](https://github.com/bruncanepa/open-e2ee/): Open-source tools to simplify E2EE on the Web.
-- 📬 [Privacy Peer](https://github.com/bruncanepa/privacy-peer): A file transfer platform with E2EE over P2P.
+- 🔐 [OpenE2EE](https://github.com/bruncanepa/open-e2ee/): Open-source tools to simplify E2EE on the Web.
+- 📬 [PeerDrop](https://github.com/bruncanepa/peer-drop): A file transfer platform with E2EE over P2P using WebRTC.
 - 🧠 [My Second Brain](https://github.com/bruncanepa/second-brain): A little preview of my Second Brain.
