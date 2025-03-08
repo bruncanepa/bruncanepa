@@ -1,7 +1,7 @@
 ## Hi there I'm Bruno Cánepa 👋
 
 ### Now: 
-- 💻 building privacy-focused tools.
+- 💻 working on privacy and AI.
 - ✍️ writing about software engineering and beyond.
 - 🛹 surf skating.
 - 🎸 playing guitar.
