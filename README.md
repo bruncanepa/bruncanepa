@@ -1,13 +1,5 @@
 ## Hi there I'm Bruno Cánepa 👋
 
-### Now: 
-- 💻 working on privacy and AI.
-- ✍️ writing about software engineering and beyond.
-- 🛹 surf skating.
-- 🎸 playing guitar.
-
-> FAQ: What is a [Now Page](https://nownownow.com/about)?
-
 ### Projects:
 - ✍️ [My Blog](https://github.com/bruncanepa/blog): All my blogs in one place.
 - 🎙️ [Murmur Voice](https://github.com/bruncanepa/murmur): A privacy-first voice dictation app for macOS that runs completely offline using native macOS Speech Recognition.
